@@ -1,10 +1,32 @@
 [project]
 name = "blog-writing-agent"
 version = "0.1.0"
-description = "Add your description here"
+description = "AI Blog Writing Agent using LangGraph"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.10"
+
 dependencies = [
+    # Core AI Framework
+    "langgraph",
+    "langchain",
+    "langchain-core",
+    "langchain-community",
+
+    # Integrations
+    "langchain-groq",
+    "langchain-tavily",
+    "tavily-python",
+    "google-genai",
+
+    # App Framework
+    "streamlit",
+
+    # Utilities
+    "python-dotenv",
+    "pydantic",
+    "pandas",
+
+    # Visualization & Export
     "plotly>=6.8.0",
-    "reportlab>=5.0.0",
+    "reportlab>=5.0.0"
 ]
