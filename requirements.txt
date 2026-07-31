@@ -5,16 +5,14 @@ langchain-community
 
 langchain-groq
 langchain-tavily
-
 tavily-python
+google-genai
 
 streamlit
 
 python-dotenv
-pydantic
+pydantic>=2.0
 pandas
 
 plotly
 reportlab
-
-google-genai
