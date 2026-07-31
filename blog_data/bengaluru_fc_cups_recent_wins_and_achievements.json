@@ -1,0 +1,156 @@
+{
+  "plan": {
+    "blog_title": "Bengaluru FC Cups: Recent Wins and Achievements",
+    "audience": "football fans",
+    "tone": "informative",
+    "blog_kind": "news_roundup",
+    "constraints": [
+      "recency_days=7"
+    ],
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Introduction to Bengaluru FC Cups",
+        "goal": "Understand the recent cups won by Bengaluru FC",
+        "bullets": [
+          "Bengaluru FC won the Durand Cup in the 2022/23 season",
+          "The club has also won two Federation Cups in 2015 and 2017"
+        ],
+        "target_words": 50,
+        "tags": [
+          "Bengaluru FC",
+          "cups",
+          "football"
+        ],
+        "requires_research": true,
+        "requires_citations": true,
+        "requires_code": false
+      },
+      {
+        "id": 2,
+        "title": "Recent Achievements of Bengaluru FC",
+        "goal": "Learn about the recent achievements of Bengaluru FC",
+        "bullets": [
+          "The club has won two I-League titles and one Indian Super League title",
+          "Bengaluru FC has also won a Super Cup in 2018"
+        ],
+        "target_words": 50,
+        "tags": [
+          "Bengaluru FC",
+          "achievements",
+          "football"
+        ],
+        "requires_research": true,
+        "requires_citations": true,
+        "requires_code": false
+      }
+    ]
+  },
+  "evidence": [
+    {
+      "title": "Bengaluru FC - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bengaluru_FC",
+      "published_at": null,
+      "snippet": "Bengaluru also won two Federation Cups in 2015 and 2017 and a Super Cup in 2018.",
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "Bengaluru FC - Club achievements | Transfermarkt - Transfer Market",
+      "url": "https://www.transfermarkt.us/bengaluru-fc/erfolge/verein/41030",
+      "published_at": null,
+      "snippet": "Season, Title. 22/23, Durand Cup Winner.",
+      "source": "transfermarkt.us"
+    },
+    {
+      "title": "List of Bengaluru FC records and statistics - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_Bengaluru_FC_records_and_statistics",
+      "published_at": null,
+      "snippet": "The club has won two I-League titles, including one in their debut season, two Federation Cup titles, one Indian Super League title, a Super Cup, and the",
+      "source": "en.wikipedia.org"
+    },
+    {
+      "title": "We are Official Bengaluru Football Club - BFC",
+      "url": "https://www.bengalurufc.com",
+      "published_at": null,
+      "snippet": "LATEST RESULTS No Results Available NEXT.",
+      "source": "bengalurufc.com"
+    },
+    {
+      "title": "Bengaluru FC stats, results, fixtures & transfers - Soccerway.com",
+      "url": "https://www.soccerway.com/team/bengaluru-fc/tCnsmWKr",
+      "published_at": null,
+      "snippet": "Soccerway provides Bengaluru FC stats, results, fixtures, transfers and live scores for free.",
+      "source": "soccerway.com"
+    },
+    {
+      "title": "Bengaluru FC Tables & Standings - 2025/2026",
+      "url": "https://www.goal.com/en-in/team/bengaluru-fc/table/12ksg0e6d70senzilsic40fzl",
+      "published_at": null,
+      "snippet": "Latest Bengaluru FC table and standing positions for Super League, Super Cup, AFC Champions League Two, AFC Champions League Elite Qualification,",
+      "source": "goal.com"
+    },
+    {
+      "title": "Sunil Chhetri and other Bengaluru FC players' salaries put on hold after ISL club takes 'difficult' decision | Football News",
+      "url": "https://www.hindustantimes.com/sports/football/sunil-chhetri-and-other-bengaluru-fc-players-salaries-put-on-hold-after-isl-club-takes-difficult-decision-101754357254065.html",
+      "published_at": null,
+      "snippet": "# Sunil Chhetri and other Bengaluru FC players' salaries put on hold after ISL club takes 'difficult' decision.",
+      "source": "hindustantimes.com"
+    },
+    {
+      "title": "North Korea: Bengaluru FC's Erik Paartalu on missile launches, lost ...",
+      "url": "https://www.bbc.com/sport/football/41257024",
+      "published_at": null,
+      "snippet": "Indian Super League side Bengaluru FC travelled to North Korea last week to play Pyongyang's 4.25 SC in the AFC Cup, Asia's version of the Europa League.",
+      "source": "bbc.com"
+    }
+  ],
+  "timeline": [
+    {
+      "step": "Router",
+      "duration": 1.01
+    },
+    {
+      "step": "Research",
+      "duration": 12.91
+    },
+    {
+      "step": "Planner",
+      "duration": 1.0
+    },
+    {
+      "step": "Workers",
+      "duration": 3.47
+    },
+    {
+      "step": "Images",
+      "duration": 5.31
+    },
+    {
+      "step": "SEO",
+      "duration": 0.59
+    }
+  ],
+  "image_specs": [
+    {
+      "placeholder": "[[IMAGE_1]]",
+      "filename": "bengaluru-fc-trophies.png",
+      "alt": "Bengaluru FC Trophies",
+      "caption": "Bengaluru FC has won several trophies, including the Durand Cup and the Federation Cup.",
+      "prompt": "Bengaluru FC trophies, including the Durand Cup and the Federation Cup.",
+      "size": "1024x1024",
+      "quality": "medium"
+    }
+  ],
+  "seo": {
+    "seo_title": "Bengaluru FC Cups",
+    "meta_description": "Bengaluru FC recent wins and achievements",
+    "keywords": [
+      "Bengaluru FC",
+      "cups",
+      "football",
+      "recent wins",
+      "achievements"
+    ]
+  },
+  "final": "# Bengaluru FC Cups: Recent Wins and Achievements\n## Table of Contents\n1. Introduction to Bengaluru FC Cups\n2. Recent Achievements of Bengaluru FC\n\n## Introduction to Bengaluru FC Cups\nBengaluru FC has been making waves in the football scene with their recent cup wins. According to [Wikipedia](https://en.wikipedia.org/wiki/Bengaluru_FC), the club won the Durand Cup in the 2022/23 season, a notable achievement in their history. Additionally, [Transfermarkt](https://www.transfermarkt.us/bengaluru-fc/erfolge/verein/41030) confirms this win, highlighting the club's success in the 2022/23 season.\n\nThe club's achievements do not stop there. As reported by [Wikipedia](https://en.wikipedia.org/wiki/Bengaluru_FC), Bengaluru FC has also won two Federation Cups, one in 2015 and another in 2017. This demonstrates the team's consistency and dedication to performing well in various competitions. Furthermore, [Wikipedia](https://en.wikipedia.org/wiki/List_of_Bengaluru_FC_records_and_statistics) provides a comprehensive list of the club's records and statistics, showcasing their impressive track record in Indian football.\n\nBengaluru FC's success is not limited to domestic cups. As mentioned in an article by [BBC](https://www.bbc.com/sport/football/41257024), the team traveled to North Korea to play against Pyongyang's 4.25 SC in the AFC Cup, a significant event in the club's history. This highlights the team's ability to compete at an international level and their commitment to representing Indian football on the global stage. With players like Sunil Chhetri, who has been in the news recently due to the club's decision to put player salaries on hold, as reported by [Hindustantimes](https://www.hindustantimes.com/sports/football/sunil-chhetri-and-other-bengaluru-fc-players-salaries-put-on-hold-after-isl-club-takes-difficult-decision-101754357254065.html), the team is sure to continue making headlines in the football world.\n\nThe club's recent performances and achievements have been well-documented by various sources, including [Soccerway](https://www.soccerway.com/team/bengaluru-fc/tCnsmWKr) and [Goal](https://www.goal.com/en-in/team/bengaluru-fc/table/12ksg0e6d70senzilsic40fzl), which provide detailed statistics and standings for the team. With their impressive record and dedication to the sport, Bengaluru FC is a team to watch in the world of football. As the team continues to strive for excellence, their fans can expect exciting matches and notable achievements in the future.\n\n## Recent Achievements of Bengaluru FC\nBengaluru FC has been making waves in the football scene with their recent achievements. According to [Wikipedia](https://en.wikipedia.org/wiki/Bengaluru_FC), the club has won two I-League titles and one Indian Super League title, showcasing their dominance in the sport. Additionally, they have also won a Super Cup in 2018, as reported by [Wikipedia](https://en.wikipedia.org/wiki/Bengaluru_FC) and [Transfermarkt](https://www.transfermarkt.us/bengaluru-fc/erfolge/verein/41030).\n\nThe club's impressive record is further highlighted by their wins in the Federation Cups, with two titles in 2015 and 2017, as mentioned in [Wikipedia](https://en.wikipedia.org/wiki/Bengaluru_FC). Moreover, [Transfermarkt](https://www.transfermarkt.us/bengaluru-fc/erfolge/verein/41030) reports that Bengaluru FC won the Durand Cup in the 2022-2023 season, demonstrating their continued success in recent years. These achievements are a testament to the team's hard work and dedication to the sport.\n\nBengaluru FC's achievements are not limited to their titles and wins. The club has also been making headlines with their player salaries, as reported by [Hindustantimes](https://www.hindustantimes.com/sports/football/sunil-chhetri-and-other-bengaluru-fc-players-salaries-put-on-hold-after-isl-club-takes-difficult-decision-101754357254065.html). The club's decision to put player salaries on hold has been a topic of discussion, with players like Sunil Chhetri being affected. Furthermore, the club's participation in international tournaments, such as the AFC Cup, has also been notable, with [BBC](https://www.bbc.com/sport/football/41257024) reporting on their match against Pyongyang's 4.25 SC in North Korea.\n\nThe club's recent performances and achievements can be attributed to the efforts of their players and staff. With their impressive record and continued success, Bengaluru FC is a team to watch in the football scene. As reported by [Soccerway](https://www.soccerway.com/team/bengaluru-fc/tCnsmWKr), the club provides updates on their stats, results, fixtures, and transfers, keeping fans informed about their progress. Overall, Bengaluru FC's recent achievements are a reflection of their dedication to the sport and their commitment to excellence.\n\n## References\n- [Bengaluru FC - Wikipedia](https://en.wikipedia.org/wiki/Bengaluru_FC)\n- [Bengaluru FC - Club achievements | Transfermarkt - Transfer Market](https://www.transfermarkt.us/bengaluru-fc/erfolge/verein/41030)\n- [List of Bengaluru FC records and statistics - Wikipedia](https://en.wikipedia.org/wiki/List_of_Bengaluru_FC_records_and_statistics)\n- [We are Official Bengaluru Football Club - BFC](https://www.bengalurufc.com)\n- [Bengaluru FC stats, results, fixtures & transfers - Soccerway.com](https://www.soccerway.com/team/bengaluru-fc/tCnsmWKr)\n- [Bengaluru FC Tables & Standings - 2025/2026](https://www.goal.com/en-in/team/bengaluru-fc/table/12ksg0e6d70senzilsic40fzl)\n- [Sunil Chhetri and other Bengaluru FC players' salaries put on hold after ISL club takes 'difficult' decision | Football News](https://www.hindustantimes.com/sports/football/sunil-chhetri-and-other-bengaluru-fc-players-salaries-put-on-hold-after-isl-club-takes-difficult-decision-101754357254065.html)\n- [North Korea: Bengaluru FC's Erik Paartalu on missile launches, lost ...](https://www.bbc.com/sport/football/41257024)\n\n"
+}
